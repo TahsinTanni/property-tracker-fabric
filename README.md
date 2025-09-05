@@ -10,17 +10,12 @@ This solution leverages blockchain technology to provide a transparent, tamper-r
 ## Features
 The Property Tracker Application supports the following core functionalities:
 
-# Add New Properties: Users can register new properties in the ledger with detailed attributes.
-
-# View All Properties: Users have access to view the entire list of registered properties.
-
-#Search Properties: Users can search properties by:
-
-# Unique Property ID
-
-# City Name
-
-# Update Property Information: Allows users to modify existing property details stored on the blockchain.
+Add New Properties: Users can register new properties in the ledger with detailed attributes.
+View All Properties: Users have access to view the entire list of registered properties.
+Search Properties: Users can search properties by:
+Unique Property ID
+City Name
+Update Property Information: Allows users to modify existing property details stored on the blockchain.
 
 ## Property Attributes
 Each tracked property contains the following data fields:
