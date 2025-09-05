@@ -45,11 +45,11 @@ The architecture ensures data integrity and consistency in property state manage
 
 Node.js
 
-Hyperledger Fabric environment setup
+Hyperledger Fabric environment setup.
 
-Wallet and user credentials configured 
+Wallet and user credentials configured.
 
-Installation
+Installation.
 
 Clone this repository.
 
